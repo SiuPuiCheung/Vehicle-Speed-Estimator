@@ -39,7 +39,7 @@ This project performs vehicle detection, tracking, and speed estimation using th
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/SiuPuiCheung/project.git
+git clone https://github.com/SiuPuiCheung/Vehicle-Speed-Estimator.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -102,7 +102,7 @@ python main.py --video_path path/to/video.mp4 --task speed --show False
 ## Docker Setup
 ```bash
 # Clone the repository
-git clone https://github.com/SiuPuiCheung/project.git
+git clone https://github.com/SiuPuiCheung/Vehicle-Speed-Estimator.git
 
 # Build the Docker image
 docker build -t <image_name> .
