@@ -47,9 +47,9 @@ pip install -r requirements.txt
 
 ## Usage
 ### Running the Script
-The main script provides multiple functionalities: detection, tracking, and speed estimation.
+The main script provides multiple functionalities: detection, tracking, and speed estimation. Here is a script example:
 ```bash
-python main.py --video_path path/to/video.mp4 --task speed --show False
+python main.py --videos/video_01.mp4 --task speed --show False
 ```
 
 ### Arguments
