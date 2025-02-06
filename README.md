@@ -1,4 +1,4 @@
-# Vehicle Speed Estimation
+# Vehicle Speed Estimator
 
 ## Menu
 - [Overview](#overview)
