@@ -31,7 +31,7 @@ This project performs vehicle detection, tracking, and speed estimation using th
 
 ## Installation
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - OpenCV
 - Ultralytics YOLO
 - Supervision
